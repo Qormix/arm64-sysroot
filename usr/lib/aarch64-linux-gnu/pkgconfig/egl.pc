@@ -1,0 +1,11 @@
+prefix=/usr
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: egl
+Description: Mesa EGL Library
+Version: 20.0.8
+Requires.private: xcb-dri2 >= 1.8 xxf86vm xcb xext xdamage >= 1.1 x11-xcb libdrm >= 2.4.75 xcb-glx >= 1.8.1 x11 xfixes
+Libs: -L${libdir} -lEGL
+Libs.private: -ldl -pthread -lm -lpthread
+Cflags: -I${includedir}

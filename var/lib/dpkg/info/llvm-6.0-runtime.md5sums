@@ -1,0 +1,6 @@
+c0c755f6c77e9e894ead3bd8154fdb92  usr/lib/llvm-6.0/bin/lli
+c67ef76eb9d722cc9f430a126676adc6  usr/lib/llvm-6.0/bin/lli-child-target
+47bcc6b9c685525d50b0039e02707ad6  usr/share/binfmts/llvm-6.0-runtime.binfmt
+efd9d5aa70bd4f30eba804055b44ccca  usr/share/doc/llvm-6.0-runtime/copyright
+2a7d6813641359f4baf8d3a6e00b3354  usr/share/lintian/overrides/llvm-6.0-runtime
+34b5fad94c9d3cef2154e8428ce86dbf  usr/share/man/man1/lli-6.0.1.gz

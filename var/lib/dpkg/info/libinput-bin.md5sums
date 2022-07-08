@@ -1,0 +1,7 @@
+454f49e5b175a9222289a354bceda507  lib/udev/hwdb.d/90-libinput-model-quirks.hwdb
+7ad42910d9f20be0bd6695329b18890f  lib/udev/libinput-device-group
+27ebdde9efcf76569861d2ebcd2a6961  lib/udev/libinput-model-quirks
+612edb41c1eaee20b730da893b729750  lib/udev/rules.d/80-libinput-device-groups.rules
+2f2c2cbe05390a487bddf0785efb97b0  lib/udev/rules.d/90-libinput-model-quirks.rules
+820f407e764a51863589171083e904b1  usr/share/doc/libinput-bin/changelog.Debian.gz
+d028c6d1a0e3bf40f6eb44a8f22817c8  usr/share/doc/libinput-bin/copyright
